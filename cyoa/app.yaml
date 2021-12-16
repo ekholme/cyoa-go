@@ -1,0 +1,2 @@
+runtime: go117
+main: ./cmd/cyoaweb
