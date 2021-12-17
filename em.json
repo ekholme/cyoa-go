@@ -1,0 +1,112 @@
+{
+    "intro": {
+        "title": "A Disturbing Lack of Buses",
+        "story": [
+            "It’s a sunny Sunday in Church Hill, and Emma and Orson have just returned from the longest walk around the neighborhood, although somehow, much to their parents’ chagrin, it’s still only 10:15 a.m. and there are hours until nap time.",
+            "\"Hey Orson,\" Emma says. \"Did you notice that even though we walked around all of Church Hill – from the chickens to JJ’s to Libbie Hill – we didn’t see a single bus? What’s the deal?\"",
+            "\"I got obsessed with buses weeks before you. You think I didn’t notice that there were no buses out?\" Orson replies.",
+            "\"Maybe we should check out what’s going on – what do you think?\""
+        ],
+        "options": [
+            {
+                "text": "Uh, obviously we should investigate this disturbing lack of buses",
+                "arc": "chimborazo-elem"
+            },
+            {
+                "text": "Nah, let’s just stay here and play",
+                "arc": "crayons"
+            }
+        ]
+    },
+    "crayons": {
+        "title": "These Crayons are Making Me Thirsty",
+        "story": [
+            "The babies decide to stay inside and play. The crayons today taste a bit stale, and Emma wishes her parents would buy a fresher pack to munch on.",
+            "The End"
+        ],
+        "options": []
+    },
+    "chimborazo-elem": {
+        "title": "Led by Squirrels",
+        "story": [
+            "Emma and Orson decide to head out and investigate. There must be a Crossfit competition or a VT game or something on TV, because none of the parents notice as the babies not-so-quietly stumble out the front door. Orson, who has months of additional practice walking down stairs, manages to catch the back of Emma’s coat to prevent her from tumbling down the front porch steps.",
+            "\"Let’s go to Chimborazo Elementary,\" Orson suggests. \"I see lots of buses over there by the playground.\"",
+            "When the babies arrive at the playground, they find it’s oddly empty. No other kids, no families, and most importantly, no buses driving by. After a few quick trips down the slide (because why not?), they’re getting ready to call it quits when a squirrel runs up to them. And then another. And another. Soon, there are exactly 10 squirrels (the babies counted them), chittering away in front of them.",
+            "\"Squirrel!\" says Emma.",
+            "\"Squirrel!\" says Orson.",
+            "The squirrels scamper a few feet away, then all turn around in unison, as if beckoning the kiddos to follow them."
+        ],
+        "options": [
+            {
+                "text": "Let's see what the squirrels want",
+                "arc": "riverbend"
+            },
+            {
+                "text": "What do squirrels know? Le's go consult with the chickens",
+                "arc": "chickens"
+            }
+        ]
+    },
+    "chickens": {
+        "title": "A Disastrous Smoothie",
+        "story": [
+            "On the way to see the chickens, the babies stop at North End to get a smoothie.",
+            "\"But we don’t have any money,\" Orson says.",
+            "\"Are you kidding? Babies just get stuff for free!\" Emma says.",
+            "Sure enough, after telling the babies how adorable they are, the staff at North End hook E & O up with some complimentary smoothies. Unfortunately, in his haste to consume the liquefied fruit, Orson spills his entire smoothie down his front, coating himself in a thick purple goo.",
+            "A concerned citizen sees this purple smoothie-colored baby crying on the sidewalk and calls his parents. Kendall and Kelly go pick up the babies and decide they need a bubble bath.",
+            "The End."
+        ],
+        "options": []
+    },
+    "riverbend": {
+        "title": "Flat Tires",
+        "story": [
+            "After a long journey down Broad Street that includes several stops to pick up miscellaneous stuff on the sidewalk (some by the squirrels, some by the babies), our heroes end up at Riverbend, where lo and behold, a GRTC bus sits lurched on the side of the road, its tires slashed.",
+            "\"Do you think the Subaru bandits have moved on to buses?\" Emma asks.",
+            "\"Could be,\" Orson replies. \"Or maybe it’s someone different and they just want us to think it’s the Subaru bandits.\"",
+            "The babies inspect the bus further and notice, right next to one of the slashes on a rear tire, a smear of something creamy and tangy.",
+            "\"Dip!\" they say in unison.",
+            "But what dip is it?"
+        ],
+        "options": [
+            {
+                "text": "Ranch! Let's check out Pizza Bones",
+                "arc": "pizza-bones"
+            },
+            {
+                "text": "COOOOBBBRRAAA!",
+                "arc": "cobra"
+            }
+        ]
+    },
+    "pizza-bones": {
+        "title": "Duke's Mayonnaise",
+        "story": [
+            "The babies toddle off toward Pizza Bones (although the squirrels decide to do their own thing). However, as they turn onto 25th street, they see yet another sidelined bus, its tires similarly shredded.",
+            "Upon stopping to investigate, they notice another saucy smear much like the one they noticed before. Now that they’ve had a second taste, though, the babies recognize the flavor. Duke’s Mayonnaise…mixed with something to give it a hint of orange.",
+            "They both look at each other and know where they need to go."
+        ],
+        "options": [
+            {
+                "text":"COOOOBBBRRAAA!",
+                "arc": "cobra"
+            }
+        ]
+    },
+    "cobra": {
+        "title": "Borger Bus Bois",
+        "story": [
+            "The route to Cobra Burger is a veritable graveyard of fucked up buses, each plastered with some mixture of cobra sauce and melted cheese. As Emma and Orson arrive at the Burger Hole, they spot several Cobra Burger employees in their iconic black t-shirts swinging katanas on the sidewalk, Slayer music pulsing from who knows where.",
+            "\"What’s going on here?\" Emma asks. \"You guys killed all of the buses!\"",
+            "\"It’s just a promo for our new ABAB burger – All Buses Are Bad.\"",
+            "\"But we love looking at the buses. How dare you take that from us.\" Orson says.",
+            "And then it dawns on the Cobra Bois and Girlz that in their quest to promote this new cheesy triple-stacked burger, they’ve inadvertently taken a great joy from these little angels.",
+            "\"Sorry little dudes. What if we give you, like, a bunch of fries to say sorry?\"",
+            "Emma and Orson look at each other and laugh.",
+            "\"With dip?\"",
+            "The End"
+        ],
+        "options": []
+    }
+}

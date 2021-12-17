@@ -12,7 +12,7 @@ import (
 
 func main() {
 	port := flag.Int("port", 8080, "the port to start the CYOA web application on")
-	filename := flag.String("file", "gopher.json", "JSON file with CYOA story")
+	filename := flag.String("file", "em.json", "JSON file with CYOA story")
 	flag.Parse()
 	fmt.Printf("Using the story in %s\n", *filename)
 
